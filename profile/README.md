@@ -106,7 +106,7 @@ Libraries for the unsexy part of production systems — consistent cache keys.
 
 ---
 
-## Talk to us
+## Talk to me
 
 If you have a product to ship, a platform to stabilize, or a document/data problem that needs a real service around it — [write on LinkedIn](https://www.linkedin.com/in/alperguven/).
 
