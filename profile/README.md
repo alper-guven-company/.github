@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Alper Güven — software company" width="100%" />
+  <img src="./assets/banner.svg" alt="Alper Güven — sole proprietorship company" width="100%" />
 </div>
 
 <br />
